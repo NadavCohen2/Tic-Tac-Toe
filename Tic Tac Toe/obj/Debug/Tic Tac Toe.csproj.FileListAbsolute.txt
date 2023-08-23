@@ -1,0 +1,31 @@
+F:\יא\שירותי רשת\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+F:\יא\שירותי רשת\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+F:\יא\שירותי רשת\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+F:\יא\שירותי רשת\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csprojResolveAssemblyReference.cache
+F:\יא\שירותי רשת\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+F:\יא\שירותי רשת\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+F:\יא\שירותי רשת\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.GenerateResource.Cache
+F:\יא\שירותי רשת\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+F:\יא\שירותי רשת\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
+G:\יא\שירותי רשת\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+G:\יא\שירותי רשת\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+G:\יא\שירותי רשת\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
+G:\יא\שירותי רשת\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+G:\יא\שירותי רשת\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+G:\יא\שירותי רשת\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csprojResolveAssemblyReference.cache
+G:\יא\שירותי רשת\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+G:\יא\שירותי רשת\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+G:\יא\שירותי רשת\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.GenerateResource.Cache
+M:\יא\שירותי רשת\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+M:\יא\שירותי רשת\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+M:\יא\שירותי רשת\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
+C:\Users\nadav\Dropbox\לימודים\יא\שירותי רשת\משחקים\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+C:\Users\nadav\Dropbox\לימודים\יא\שירותי רשת\משחקים\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+C:\Users\nadav\Dropbox\לימודים\יא\שירותי רשת\משחקים\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+C:\Users\nadav\Dropbox\לימודים\יא\שירותי רשת\משחקים\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.AssemblyReference.cache
+C:\Users\nadav\Dropbox\לימודים\יא\שירותי רשת\משחקים\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+C:\Users\nadav\Dropbox\לימודים\יא\שירותי רשת\משחקים\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\nadav\Dropbox\לימודים\יא\שירותי רשת\משחקים\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.GenerateResource.cache
+C:\Users\nadav\Dropbox\לימודים\יא\שירותי רשת\משחקים\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\nadav\Dropbox\לימודים\יא\שירותי רשת\משחקים\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+C:\Users\nadav\Dropbox\לימודים\יא\שירותי רשת\משחקים\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
